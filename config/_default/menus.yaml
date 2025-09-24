@@ -1,0 +1,30 @@
+leftnav:
+- identifier: c86ea039-f44c-ae11-3ed0-4c4ea089ece1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ddb8c5fd-18e9-f7f0-23c8-7f429c3bbacc
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 88495702-e85c-06bd-72be-5db81fd71ab9
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 4048f9a1-9637-344d-b333-b2624d77b112
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: c5200d00-d9ad-7f27-11a3-7174ca607bba
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 50
+- identifier: 0a04dac8-348d-6047-0f2a-e9d8a5933ee6
+  name: Teamwork and Match Process
+  pageRef: /pages/projects/teamwork-and-match-process
+  parent: c5200d00-d9ad-7f27-11a3-7174ca607bba
+  weight: 60
+- identifier: a1f64bb2-2b45-edb6-8ab1-d31d3243bda4
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
